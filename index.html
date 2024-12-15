@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Домик Мива</title>
+    <!-- Подключение шрифта Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Основные стили */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+        }
+
+        /* Задний фон */
+        .background {
+            background: url('https://i.yapx.ru/YRP5k.png') no-repeat center center;
+            background-size: cover;
+            height: 190px; /* Высота заднего фона */
+            position: relative;
+            z-index: 0;
+        }
+
+        /* Контейнер */
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: -20px;
+            position: relative;
+        }
+
+        /* Шапка профиля */
+        .header {
+            background-color: #111;
+            padding: 60px 20px;
+            position: relative;
+            z-index: 1;
+            border-radius: 12px;
+        }
+
+        /* Аватарка между фоном и header */
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: linear-gradient(to bottom, #555, #333);
+            background-image: url('https://i.yapx.ru/YRPy7.png'); /* Ссылка на аватарку */
+            background-size: cover;
+            background-position: center;
+            position: absolute;
+            top: 120px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 2;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        h1 {
+            margin: 20px 0 0;
+            font-size: 2.5rem;
+        }
+
+        p {
+            font-size: 1rem;
+            color: #aaa;
+        }
+
+        /* Общие кнопки */
+        .button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin: 5px;
+            border: 1px solid #fff;
+            border-radius: 40px;
+            text-decoration: none;
+            font-family: 'Inter', sans-serif;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .button img {
+            margin-right: 6px;
+            vertical-align: middle;
+            width: 20px; /* Фиксированный размер иконок */
+            height: 20px;
+        }
+
+        /* Крупные кнопки */
+        .email-button, .telegram-button {
+            padding: 8px 20px;
+            font-size: 1rem;
+        }
+
+        .contact {
+            margin-bottom: 10px; /* Увеличенный отступ снизу */
+        }
+
+        /* Компактные кнопки */
+        .youtube-button, .twitch-button, .github-button {
+            padding: 4px 12px;
+            font-size: 0.9rem;
+            margin-top: 1px; /* Отступ сверху для разделения групп */
+        }
+
+        /* Цвета кнопок */
+        .email-button {
+            background-color: transparent;
+            border-color: #ffffff;
+            color: #ffffff;
+        }
+        .email-button:hover {
+            color: #bebebe;
+        }
+
+        .telegram-button {
+            background-color: transparent;
+            border-color: #ffffff;
+            color: #ffffff;
+        }
+        .telegram-button:hover {
+            color: #bebebe;
+        }
+
+        .youtube-button {
+            background-color: #FF0000;
+            border: none;
+            color: #fff;
+        }
+        .youtube-button:hover {
+            background-color: #cc0000;
+        }
+
+        .twitch-button {
+            background-color: #9147FF;
+            border: none;
+            color: #fff;
+        }
+        .twitch-button:hover {
+            background-color: #7c3be0;
+        }
+
+        .github-button {
+            background-color: #333;
+            border: none;
+            color: #fff;
+        }
+        .github-button:hover {
+            background-color: #222;
+        }
+
+        /* Секция комментариев */
+        .comments {
+            margin-top: 40px;
+            background-color: #111;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: left;
+        }
+
+        .comments h2 {
+            font-size: 1.5rem;
+        }
+
+        .comments textarea {
+            width: 100%;
+            height: 80px;
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #333;
+            border-radius: 8px;
+            background-color: #222;
+            color: #fff;
+        }
+
+        .comments button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: #7e7e7e;
+            color: #fff;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .comments button:hover {
+            background-color: #007ab8;
+        }
+
+        .comment-list {
+            margin-top: 20px;
+            border-top: 1px solid #333;
+            padding-top: 10px;
+        }
+
+        .comment-item {
+            background-color: #222;
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Задний фон -->
+    <div class="background"></div>
+
+    <!-- Аватарка между фоном и header -->
+    <div class="profile-img"></div>
+
+    <!-- Контейнер с header -->
+    <div class="container">
+        <div class="header">
+            <h1>Домик Мива</h1>
+            <p>Михаил "Miv"</p>
+            <!-- Верхние крупные кнопки -->
+            <div class="contact">
+                <a href="mailto:housemiv@mail.ru" class="button email-button">
+                    <img src="https://i.yapx.ru/YRP2S.png" alt="email">housemiv@mail.ru
+                </a>
+                <a href="https://t.me/miv_spaceway" class="button telegram-button" target="_blank">
+                    <img src="https://i.yapx.ru/YRP2T.png" alt="telegram">@HouseMiv
+                </a>
+            </div>
+            <!-- Компактные кнопки -->
+            <a href="https://www.youtube.com/@House_Miv" class="button youtube-button" target="_blank">
+                <img src="https://i.yapx.ru/YRP2V.png" alt="youtube"> Подпишись
+            </a>
+            <a href="https://www.twitch.tv/mivhouse" class="button twitch-button" target="_blank">
+                <img src="https://i.yapx.ru/YRP2W.png" alt="twitch"> Отслеживать
+            </a>
+            <a href="https://github.com/HouseMiv" class="button github-button" target="_blank">
+                <img src="https://i.yapx.ru/YRP2U.png" alt="github"> GitHub
+            </a>
+        </div>
+
+        <!-- Секция комментариев -->
+        <div class="comments">
+            <h2>Оставьте комментарий</h2>
+            <textarea id="commentInput" placeholder="Напишите ваш вопрос для меня..."></textarea>
+            <button onclick="addComment()">Отправить</button>
+            <div id="commentList" class="comment-list"></div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // Загрузка комментариев из localStorage при загрузке страницы
+        document.addEventListener('DOMContentLoaded', loadComments);
+    
+        function loadComments() {
+            const commentList = document.getElementById('commentList');
+            const savedComments = JSON.parse(localStorage.getItem('comments')) || [];
+    
+            savedComments.forEach((comment, index) => {
+                const commentItem = createCommentItem(comment, index);
+                commentList.appendChild(commentItem);
+            });
+        }
+    
+        // Функция для создания элемента комментария
+        function createCommentItem(comment, index) {
+            const commentItem = document.createElement('div');
+            commentItem.classList.add('comment-item');
+            commentItem.textContent = comment;
+    
+            // Кнопка удаления
+            const deleteButton = document.createElement('button');
+            deleteButton.textContent = 'Удалить';
+            deleteButton.style.marginLeft = '10px';
+            deleteButton.style.padding = '5px';
+            deleteButton.style.backgroundColor = '#ff0000';
+            deleteButton.style.color = '#fff';
+            deleteButton.style.border = 'none';
+            deleteButton.style.borderRadius = '5px';
+            deleteButton.style.cursor = 'pointer';
+    
+            deleteButton.addEventListener('click', () => deleteComment(index));
+    
+            commentItem.appendChild(deleteButton);
+            return commentItem;
+        }
+    
+        // Функция для добавления нового комментария
+        function addComment() {
+            const commentInput = document.getElementById('commentInput');
+            const commentList = document.getElementById('commentList');
+            const commentText = commentInput.value.trim();
+    
+            if (commentText) {
+                // Добавление комментария в список
+                const savedComments = JSON.parse(localStorage.getItem('comments')) || [];
+                const newIndex = savedComments.length;
+                const commentItem = createCommentItem(commentText, newIndex);
+                commentList.appendChild(commentItem);
+    
+                // Сохранение комментария в localStorage
+                saveComment(commentText);
+    
+                // Очистка поля ввода
+                commentInput.value = '';
+            } else {
+                alert('Введите комментарий!');
+            }
+        }
+    
+        function saveComment(comment) {
+            const savedComments = JSON.parse(localStorage.getItem('comments')) || [];
+            savedComments.push(comment);
+            localStorage.setItem('comments', JSON.stringify(savedComments));
+        }
+    
+        // Функция для удаления комментария
+        function deleteComment(index) {
+            const savedComments = JSON.parse(localStorage.getItem('comments')) || [];
+            savedComments.splice(index, 1); // Удаляем комментарий по индексу
+            localStorage.setItem('comments', JSON.stringify(savedComments));
+            refreshComments(); // Обновляем отображение комментариев
+        }
+    
+        // Функция для обновления списка комментариев на странице
+        function refreshComments() {
+            const commentList = document.getElementById('commentList');
+            commentList.innerHTML = ''; // Очищаем список
+            loadComments(); // Заново загружаем комментарии
+        }
+    </script>
+    
