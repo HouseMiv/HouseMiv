@@ -56,8 +56,8 @@ Hi 👋 My name is Michael
 ---
 
 ## 🎖 Achievements  
-- 🏅 Google Cloud Certified Developer  
-- 🥇 Hackathon Winner 2022  
+- 🏅 
+- 🥇  
 
 ---
 
