@@ -38,7 +38,7 @@ Hi 👋 My name is Michael
   </a>
 
   <a href="https://t.me/miv_spaceway" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YOUR_REPO/your_project/main/YZzvJ.png" width="32" height="32" alt="Telegram Channel" />
+    <img src="https://github.com/user-attachments/assets/902da9c3-5849-4d2f-a45e-fb1cc7287f6f" width="32" height="32" alt="Telegram Channel" />
   </a>
 </p>
 
