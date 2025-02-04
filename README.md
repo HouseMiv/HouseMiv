@@ -35,8 +35,8 @@ Hi 👋 My name is Michael
 
 ---
 
-## 💼 Portfolio Projects
-- 🎮 [Game Project](https://github.com/HouseMiv/GameProject) — A multiplayer game built with C# and alt:v.  
+## 💼 Portfolio Projects (Loading...)
+- 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.  
 - 🌐 [Personal Portfolio](https://housemiv.github.io) — My portfolio showcasing design and development work.  
 
 ---
