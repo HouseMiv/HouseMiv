@@ -22,23 +22,23 @@ Hi 👋 My name is Michael
   </a>
 
   <a href="https://discord.com/users/housemiv" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" height="32" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" height="32"/>
   </a>
 
   <a href="https://github.com/HouseMiv" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/>
   </a>
 
   <a href="https://www.youtube.com/@HouseMiva" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YT.png" width="32" height="32" alt="YouTube" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YT.png" width="32" height="32"/>
   </a>
 
   <a href="https://www.twitch.tv/mivhouse" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/tw.png" width="32" height="32" alt="Twitch" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/tw.png" width="32" height="32"/>
   </a>
 
   <a href="https://t.me/miv_spaceway" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YaAVL.png" width="32" height="32" alt="Telegram Channel" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YaAVL.png" width="32" height="32"/>
   </a>
 </p>
 
