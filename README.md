@@ -55,10 +55,10 @@ Hi 👋 My name is Michael
 
 ---
 
-## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
-
----
-
 ## 🎖 Achievements  
 - 🏅 Google Cloud Certified Developer  
 - 🥇 Hackathon Winner 2022  
+
+---
+
+## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
