@@ -18,7 +18,7 @@ Hi 👋 My name is Michael
 ### 🌐 Socials  
 
   <a href="https://t.me/DesignMiv" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YOUR_REPO/your_project/main/YaAVL.svg" width="32" height="32" alt="Telegram Portfolio" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YZzvJ.png" width="32" height="32" alt="Telegram Portfolio" />
   </a>
 
   <a href="https://discord.com/users/housemiv" target="_blank" rel="noreferrer">
@@ -30,15 +30,15 @@ Hi 👋 My name is Michael
   </a>
 
   <a href="https://www.youtube.com/@HouseMiva" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YT.png" width="32" height="32" alt="YouTube" />
   </a>
 
   <a href="https://www.twitch.tv/mivhouse" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/tw.png" width="32" height="32" alt="Twitch" />
   </a>
 
   <a href="https://t.me/miv_spaceway" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/902da9c3-5849-4d2f-a45e-fb1cc7287f6f" width="32" height="32" alt="Telegram Channel" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/YaAVL.png" width="32" height="32" alt="Telegram Channel" />
   </a>
 </p>
 
