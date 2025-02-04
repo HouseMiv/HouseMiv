@@ -9,7 +9,7 @@ Hi 👋 My name is Michael
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on [Project Name]()  
+- 🔭 Currently working on Nothing  
 - 🌱 Learning advanced backend solutions  
 - 👯 Looking to collaborate on open-source projects  
 - ⚡ Fun fact: I'm a big fan of gaming and coffee ☕
