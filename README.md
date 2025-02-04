@@ -41,13 +41,13 @@ Hi 👋 My name is Michael
 
 [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HouseMiv&show_icons=true&theme=radical)](https://github.com/HouseMiv)
 
-## 🏆 Badges  
+## 🏆 Badges  (Loading...)
 
 
 
 ---
 
-## 🎖 Achievements  
+## 🎖 Achievements (Loading...)
 - 🏅 
 - 🥇  
 
