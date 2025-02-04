@@ -55,7 +55,7 @@ Hi 👋 My name is Michael
 
 ---
 
-## 🌍 [Connect with Me](https://housemiv.github.io) 
+## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
 
 ---
 
