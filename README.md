@@ -21,7 +21,7 @@ Hi 👋 My name is Michael
 
   <a href="https://t.me/DesignMiv" target="_blank" rel="noreferrer">
   <picture>
-    <img src="https://i.yapx.ru/YZzvJ.png" width="32" height="32"/>
+    <img src="http://www.w3.org/2000/svg" width="32" height="32"/>
   </picture> 
   </a>
 
