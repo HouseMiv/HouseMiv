@@ -20,14 +20,12 @@ Hi 👋 My name is Michael
 <p align="left">
 
   <a href="https://t.me/DesignMiv" target="_blank" rel="noreferrer">
-  <picture>
-    <img src="http://www.w3.org/2000/svg" width="32" height="32"/>
-  </picture> 
+  <img src="https://raw.githubusercontent.com/YOUR_REPO/your_project/main/YaAVL.svg" width="32" height="32" alt="Telegram Portfolio" />
   </a>
 
   <a href="https://discord.com/users/housemiv" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
     </picture>  
@@ -49,9 +47,8 @@ Hi 👋 My name is Michael
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
   </a>
 
-
   <a href="https://t.me/miv_spaceway" target="_blank" rel="noreferrer">
-    <img src="https://i.yapx.ru/YaAVL.png" width="32" height="32" alt="Telegram Channel" />
+  <img src="https://raw.githubusercontent.com/YOUR_REPO/your_project/main/YZzvJ.png" width="32" height="32" alt="Telegram Channel" />
   </a>
 
 </p>
