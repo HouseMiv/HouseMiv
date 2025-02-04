@@ -51,25 +51,11 @@ Hi 👋 My name is Michael
 
 ## 🏆 Badges  
 
-<a href="https://github.com/HouseMiv" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+
 
 ---
 
-## 🌍 Connect with Me  
-
-<p align="left">
-  <a href="https://t.me/DesignMiv" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/housemiv" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitch.tv/mivhouse" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
-  </a>
-</p>
+## 🌍 [Connect with Me](https://housemiv.github.io) 
 
 ---
 
