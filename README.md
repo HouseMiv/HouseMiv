@@ -62,6 +62,10 @@ Hi 👋 My name is Michael
     <img src="https://github.com/HouseMiv/PNG/blob/main/asset/Scss_Logo_Color.svg.png" width="36" height="36" alt="Sass (SCSS)" />
   </a>
 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
+  </a>
+
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://github.com/HouseMiv/PNG/blob/main/asset/AH.png" width="36" height="36" alt="AutoHotkey" />
   </a>
