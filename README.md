@@ -36,13 +36,6 @@ Hi 👋 My name is Michael
 
   
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/></a>
-  
-<p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36"/></a>
 
@@ -57,6 +50,7 @@ Hi 👋 My name is Michael
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a>
+
 
 <p align="left">
 <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
