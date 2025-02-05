@@ -68,11 +68,13 @@ Hi 👋 My name is Michael
   </a>
 </p>
 
+---
 
 ## 💼 Portfolio Projects (Loading...)
 - 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.  
 - 🌐 [Personal Portfolio](https://housemiv.github.io) — My portfolio showcasing design and development work.  
 
+---
 
 ## ⚡ GitHub Activity  
 
@@ -80,11 +82,13 @@ Hi 👋 My name is Michael
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
+---
+
 ## 🏆 Badges  (Loading...)
 
 
 
----
+
 
 ## 🎖 Achievements (Loading...)
 - 🏅 
