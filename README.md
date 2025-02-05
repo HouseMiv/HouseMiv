@@ -59,8 +59,8 @@ Hi 👋 My name is Michael
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
   </a>
 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass (SCSS)" />
+<a href="https://sharkcoder.com/tools/scss" target="_blank" rel="noreferrer">
+  <img src="https://github.com/HouseMiv/PNG/blob/main/asset/Scss_Logo_Color.svg.png" width="36" height="36" alt="Sass (SCSS)" />
 </a>
 
 
