@@ -43,29 +43,25 @@ Hi 👋 My name is Michael
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/></a>
   
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />
-  </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36"/></a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/></a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36"/></a>
 
-  <a href="https://sharkcoder.com/tools/scss" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/Scss_Logo_Color.svg.png" width="36" height="36" alt="Sass (SCSS)" />
-  </a>
+<a href="https://sharkcoder.com/tools/scss" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://github.com/HouseMiv/PNG/blob/main/asset/Scss_Logo_Color.svg.png" width="36" height="36"/></a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-  </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a>
+
 <p align="left">
-  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/AH.png" width="36" height="36" alt="AutoHotkey" />
-  </a>
+<a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://github.com/HouseMiv/PNG/blob/main/asset/AH.png" width="36" height="36"/></a>
+  
 </p>
 
 
