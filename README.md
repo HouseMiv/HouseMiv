@@ -6,7 +6,6 @@ Hi 👋 My name is Michael
   <img height="300" src="https://i.gifer.com/1abF.gif" alt="Programmer Animation" />
 </div>
 
----
 
 ## 🚀 About Me  
 - 🔭 Currently working on Nothing  
