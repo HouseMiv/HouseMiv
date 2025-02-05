@@ -65,7 +65,7 @@ Hi 👋 My name is Michael
 
 
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="36" height="36" alt="AutoHotkey" />
+    <img src="https://github.com/HouseMiv/PNG/blob/main/asset/AH.png" width="36" height="36" alt="AutoHotkey" />
   </a>
 </p>
 
