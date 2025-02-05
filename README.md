@@ -18,51 +18,51 @@ Hi 👋 My name is Michael
 ## 🔧 Skills (Loading...)
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
   
-  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"/>
   </a>
 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
   </a>
 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />
   </a>
 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
   </a>
 
-  <a href="https://sharkcoder.com/tools/scss" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://sharkcoder.com/tools/scss" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://github.com/HouseMiv/PNG/blob/main/asset/Scss_Logo_Color.svg.png" width="36" height="36" alt="Sass (SCSS)" />
   </a>
 
-  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://github.com/HouseMiv/PNG/blob/main/asset/AH.png" width="36" height="36" alt="AutoHotkey" />
   </a>
 </p>
