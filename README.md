@@ -65,7 +65,7 @@ Hi 👋 My name is Michael
 - 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.
 - 🌐
 -
--
+- ☁️ [VK Cloud Test Task](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🌍 [About me](https://housemiv.github.io/HouseMiv/) — My a onepage website with information about the author.
   
 ---
