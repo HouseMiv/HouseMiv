@@ -67,6 +67,7 @@ Hi 👋 My name is Michael
 -
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🛡️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
+- [MajesticHub Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) - The Forum Stacker program was created using HTML, JS and CSS to help administrators with punishments on the forum.
 - 🌍 [About me](https://housemiv.github.io/HouseMiv/) — My a landing page website with information about the author.
   
 ---
