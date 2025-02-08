@@ -82,8 +82,9 @@ Hi 👋 My name is Michael
 
 
 ## 🎖 Achievements (Loading...)
-- 🏅 
-- 🥇  
+- 🏅 Rukon "Programming in Python"
+- 🥇 Aeroton 2024: Development of digital and engineering solutions for the development of urban air mobility)
+- 🏆 The All-Russian Gazprom Neft and ITMO Case Championship: Awarded for "Infrastructure solutions for the implementation of AI projects".
 
 ---
 
