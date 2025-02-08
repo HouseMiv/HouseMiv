@@ -62,9 +62,12 @@ Hi 👋 My name is Michael
 ---
 
 ## 💼 Portfolio Projects (Loading...)
-- 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.  
-- 🌐 [About me](https://housemiv.github.io/HouseMiv/) — My a onepage website with information about the author.
-
+- 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.
+- 🌐
+-
+-
+- 🌍 [About me](https://housemiv.github.io/HouseMiv/) — My a onepage website with information about the author.
+  
 ---
 
 ## ⚡ GitHub Activity  
