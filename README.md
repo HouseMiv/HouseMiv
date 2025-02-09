@@ -53,13 +53,14 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=HouseMiv&theme=codeSTACKr&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3"/>
 </a>
 <a href="https://github.com/HouseMiv">
-  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false"/>
+  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false&title_color=d3d3d3"/>
 </a>
 <br/>
 <br/>
 
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
+
 
 
 ---
