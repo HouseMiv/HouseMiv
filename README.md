@@ -31,6 +31,11 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
  
+### 🎨 Frontend & Styling  
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white&style=for-the-badge)  
+![SCSS](https://img.shields.io/badge/SCSS-purple?logo=sass&logoColor=white&style=for-the-badge)  
+![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)  
 
 
 
