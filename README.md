@@ -46,8 +46,8 @@
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=autohotkey&logoColor=white&style=for-the-badge)
 
 ### 🤖 Bots  
-![Telegram Bots](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge)
+![Telegram Bots](https://img.shields.io/badge/telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
+![Discord Bots](https://img.shields.io/badge/discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
 
 ## 🔧 Skills (Loading..)
 
@@ -76,9 +76,6 @@
 ![Git](https://img.shields.io/badge/git-firebrick?logo=git&logoColor=white&style=for-the-badge)
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-mediumseagreen?logo=autohotkey&logoColor=white&style=for-the-badge)
 
-### 🤖 Bots  
-![Telegram Bots](https://img.shields.io/badge/telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
 
 
 </p>
