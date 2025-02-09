@@ -17,8 +17,6 @@
 
 ---
 
-## 🔧 Skills (Loadnig..)
-
 ## 🔧 Skills (Loading..)
 
 ### 🖥️ Languages & Frameworks  
@@ -45,10 +43,6 @@
 <div>
   <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="8">
 </div>
-
-
-</p>
-
 
 ---
 
