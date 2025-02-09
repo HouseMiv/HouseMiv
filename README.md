@@ -42,6 +42,7 @@
 
 ### ⚙️ Tools  
 ![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-663399?logo=github&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-firebrick?logo=git&logoColor=white&style=for-the-badge)
 
 ### 🤖 Bots  
