@@ -50,14 +50,14 @@
 
 <div align="center">
   <a href="https://github.com/HouseMiv">
-    <img src="https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" alt="GitHub Streak" width="400" height="400"></a>
+    <img src="https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" 
+         alt="GitHub Streak" width="420" height="200">
+  </a>
   <a href="https://github.com/HouseMiv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&border_radius=4" alt="Top Languages" width="200" height="300"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&border_radius=4" 
+         alt="Top Languages" width="420" height="200">
+  </a>
 </div>
-
-
-> [!NOTE]
-> The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.#) 
 
 
 > [!NOTE]
