@@ -43,7 +43,6 @@
 ### ⚙️ Tools  
 ![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-firebrick?logo=git&logoColor=white&style=for-the-badge)
-![AutoHotkey](https://img.shields.io/badge/autohotkey-mediumseagreen?logo=autohotkey&logoColor=white&style=for-the-badge)
 
 ### 🤖 Bots  
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
