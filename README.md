@@ -1,5 +1,8 @@
-###<div align="center"><a href="https://sh20raj.com"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=ffffff&vCenter=true&center=true&width=800&lines=Hi+%2C+World!+👋+My+name+is+Michael"</a></div>
-
+<div align="center"><a href="https://sh20raj.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=ffffff&vCenter=true&center=true&width=800&lines=Hi+%2C+World!+👋+My+name+is+Michael"</a>
+</div>
+  
+---
 
 <div align="center">
   <img height="300" src="https://i.gifer.com/1abF.gif" alt="Programmer Animation" />
