@@ -40,6 +40,7 @@
 <div>
   <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="3">
 </div>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Tools  
