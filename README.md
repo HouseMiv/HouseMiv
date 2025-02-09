@@ -26,7 +26,7 @@
 
 ### 🎨 Frontend & Styling  
 <div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs" alt="4">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs" alt="2">
 </div>
 
 ### 🗃️ Databases  
@@ -36,11 +36,11 @@
 
 ### ⚙️ Tools  
 <div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=github,git,githubdesktop" alt="5">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=github,git,githubdesktop" alt="4">
 </div>
 
 ### 🤖 Bots  
-<div style="gap: 20px;">
+<div style="display: flex; gap: 20px;">
   <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="5">
 </div>
 
@@ -48,6 +48,7 @@
   <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram">
   <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord">
 </div>
+
 
 
 
