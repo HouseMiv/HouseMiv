@@ -23,9 +23,7 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
 
 ### 🎨 Frontend & Styling  
-<div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs" alt="2">
-</div>
+![Frontend & Styling ](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs)
 
 ### 🗃️ Databases  
 <div>
