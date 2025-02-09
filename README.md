@@ -37,22 +37,17 @@
 ![SCSS](https://img.shields.io/badge/SCSS-purple?logo=sass&logoColor=white&style=for-the-badge)
 ![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
 
+### 🗃️ Databases
+![MySql](https://img.shields.io/badge/mysql-green?logo=mysql3&logoColor=white&style=for-the-badge)
+
 ### ⚙️ Tools
 ![GitHub](https://img.shields.io/badge/github-green?logo=github3&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-green?logo=git3&logoColor=white&style=for-the-badge)
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=autohotkey3&logoColor=white&style=for-the-badge)
 
-### 🗃️ Databases
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a> 
-
-
 ### 🤖 Bots
-<a href="#" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" width="36" height="36"/></a> 
-
-<a href="#" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discord_logo.svg/512px-Discord_logo.svg.png" width="36" height="36"/></a>
+![Telegram Bots](https://img.shields.io/badge/telegram-green?logo=telegram3&logoColor=white&style=for-the-badge)
+![Discord Bots](https://img.shields.io/badge/discord-green?logo=discord3&logoColor=white&style=for-the-badge)
 
 </p>
 
