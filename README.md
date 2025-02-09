@@ -63,7 +63,11 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36"/></a>
 
 ### Bots:
+<a href="#" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" width="36" height="36"/></a> 
 
+<a href="#" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discord_logo.svg/512px-Discord_logo.svg.png" width="36" height="36"/></a>
 
 </p>
 
