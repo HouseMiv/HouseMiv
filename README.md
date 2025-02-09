@@ -49,15 +49,14 @@
 ## 📊  GitHub Activity 
 
 <div align="center">
-  <span style="display: inline-block; margin-right: 20px;">
-    <a href="https://github.com/HouseMiv">
-      <img src="https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=498&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" alt="GitHub Streak">
-    </a>
-  </span>
-  
   <span style="display: inline-block;">
     <a href="https://github.com/HouseMiv">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&border_radius=4&card_width=300" alt="Top Languages">
+    </a>
+  </span>
+  <span style="display: inline-block; margin-right: 20px;">
+    <a href="https://github.com/HouseMiv">
+      <img src="https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=498&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" alt="GitHub Streak">
     </a>
   </span>
 </div>
