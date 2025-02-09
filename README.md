@@ -23,7 +23,7 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
 
 ### 🎨 Frontend & Styling  
-![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug,HandlebarsJS,Mustache)&nbsp;&nbsp;![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=handlebars)
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug,HandlebarsJS)&nbsp;&nbsp;![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=handlebars)
 
 ### 🗃️ Databases  
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
