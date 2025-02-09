@@ -37,17 +37,17 @@
 ![SCSS](https://img.shields.io/badge/SCSS-purple?logo=sass&logoColor=white&style=for-the-badge)
 ![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
 
-### 🗃️ Databases
-![MySql](https://img.shields.io/badge/mysql-green?logo=mysql3&logoColor=white&style=for-the-badge)
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
 
-### ⚙️ Tools
-![GitHub](https://img.shields.io/badge/github-green?logo=github3&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-green?logo=git3&logoColor=white&style=for-the-badge)
-![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=autohotkey3&logoColor=white&style=for-the-badge)
+### ⚙️ Tools  
+![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/git-orange?logo=git&logoColor=white&style=for-the-badge)  
+![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=autohotkey&logoColor=white&style=for-the-badge)
 
-### 🤖 Bots
-![Telegram Bots](https://img.shields.io/badge/telegram-green?logo=telegram3&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/discord-green?logo=discord3&logoColor=white&style=for-the-badge)
+### 🤖 Bots  
+![Telegram Bots](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)  
+![Discord Bots](https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge)
 
 </p>
 
