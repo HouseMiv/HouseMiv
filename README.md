@@ -104,7 +104,7 @@
 
 <div align="center">
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23D6005D" alt="PROFILE VIEWS"/>
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS"/>
    </a>
 </div>
 
