@@ -38,7 +38,7 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars-darkred?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
 
 ### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=database&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Tools  
 ![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
