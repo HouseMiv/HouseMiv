@@ -19,38 +19,39 @@
 
 ## 🔧 Skills (Loadnig..)
 
+## 🔧 Skills (Loading..)
+
 ### 🖥️ Languages & Frameworks  
 <div>
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=python,go," alt="1">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=python,go" alt="1">
 </div>
 <div>
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs" alt="2">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs" alt="2">
 </div>
 <div>
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,react" alt="3">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,react" alt="3">
 </div>
 
 ### 🎨 Frontend & Styling  
-![HTML](https://img.shields.io/badge/HTML-darkorange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-darkviolet?logo=css3&logoColor=white&style=for-the-badge)
-![SCSS](https://img.shields.io/badge/SCSS-indigo?logo=sass&logoColor=white&style=for-the-badge)
-![Handlebars](https://img.shields.io/badge/Handlebars-darkred?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
+<div>
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs" alt="4">
+</div>
 
 ### 🗃️ Databases  
 <div>
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="3">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="3">
 </div>
 
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
-
 ### ⚙️ Tools  
-![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-663399?logo=github&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-firebrick?logo=git&logoColor=white&style=for-the-badge)
+<div>
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=github,git,githubdesktop" alt="5">
+</div>
 
 ### 🤖 Bots  
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/Discord%20Bots-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
+<div>
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="6">
+</div>
+
 
 </p>
 
