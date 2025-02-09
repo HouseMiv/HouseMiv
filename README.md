@@ -22,7 +22,11 @@
 ### 🖥️ Languages & Frameworks  
 <div>
   <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=python,go," alt="1">
+</div>
+<div>
   <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs" alt="2">
+</div>
+<div>
   <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,react" alt="3">
 </div>
 
