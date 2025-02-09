@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=ffffff&vCenter=true&center=true&width=800&lines=Hi+%2C+World!+👋+My+name+is+Michael"</a>
 </div>
 ㅤㅤㅤ
+
 ## 🚀 About Me  
 - 🔭 Currently working on Nothing  
 - 🌱 Learning advanced backend solutions  
