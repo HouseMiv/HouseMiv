@@ -69,6 +69,10 @@
 <div align="center">
 <br></br>
 
+<div style="border-radius: 10px; overflow: hidden;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=181824&tc=ffffff&ic=ec4899&bc=181824&hide_color=ec4899&bg_color=181824&hide_border=true" />
+</div>
+
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=181824&tc=ffffff&ic=ec4899&bc=181824&hide_color=ec4899&bg_color=181824&hide_border=true&border_radius=10)](https://github.com/HouseMiv)  
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HouseMiv&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&border_radius=10&card_width=500)](https://github.com/HouseMiv)  
