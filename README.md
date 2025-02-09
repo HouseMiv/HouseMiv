@@ -49,8 +49,6 @@
 ## 📊  GitHub Activity 
 
 <div align="center">
-  <br></br>
-  
   <span style="display: inline-block; margin-right: 20px; vertical-align: middle;">
     <a href="https://github.com/HouseMiv">
       <img src="https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=498&background=0D1117&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3" alt="GitHub Streak">
