@@ -40,7 +40,7 @@
 </div>
 
 ### 🤖 Bots  
-<div style="display: flex; gap: 20px;">
+<div style="gap: 20px;">
   <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="5">
 </div>
 
