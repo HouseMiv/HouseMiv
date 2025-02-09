@@ -29,10 +29,10 @@
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 ### ⚙️ Tools  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git,githubpages)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git)
 
 ### 🤖 Bots  
-![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram,discord)
+![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord,telegram&titles=true)
 
 ---
 
