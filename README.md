@@ -68,9 +68,9 @@
 ## ⚡ GitHub Activity  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HouseMiv/HouseMiv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HouseMiv/HouseMiv/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HouseMiv/HouseMiv/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HouseMiv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HouseMiv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HouseMiv/output/github-snake.svg" />
 </picture>
 
 <a href="https://github.com/HouseMiv" align="left">
