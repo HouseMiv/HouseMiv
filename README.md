@@ -32,7 +32,7 @@
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git)
 
 ### 🤖 Bots  
-![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord,telegram)
+![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord,telegram.svg)
 
 ---
 
