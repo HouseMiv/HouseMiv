@@ -38,7 +38,7 @@
 ![Handlebars](https://img.shields.io/badge/Handlebars-darkred?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
 
 ### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-midnightblue?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Tools  
 ![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
@@ -48,11 +48,6 @@
 ### 🤖 Bots  
 ![Telegram Bots](https://img.shields.io/badge/telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
-
-
-
-### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-midnightblue?logo=mysql&logoColor=white&style=for-the-badge)
 
 </p>
 
