@@ -67,7 +67,8 @@
 ## ⚡ GitHub Activity  
 
 <div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/HouseMiv)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/HouseMiv) 
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=181824&tc=ffffff&ic=ec4899&bc=181824)](https://github.com/HouseMiv)  
 
