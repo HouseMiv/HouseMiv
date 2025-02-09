@@ -23,32 +23,16 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
 
 ### 🎨 Frontend & Styling  
-![Frontend & Styling ](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs)
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs)
 
 ### 🗃️ Databases  
-<div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="3">
-</div>
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 ### ⚙️ Tools  
-<div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=github,git,githubdesktop" alt="4">
-</div>
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git,githubdesktop)
 
 ### 🤖 Bots  
-<div style="display: flex; gap: 20px;">
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="5">
-</div>
-
-<div style="display: flex; gap: 20px;">
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram">
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord">
-</div>
-
-
-
-
-
+![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram,discord)
 
 ---
 
