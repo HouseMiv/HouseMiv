@@ -31,7 +31,11 @@
 </div>
 
 ### 🎨 Frontend & Styling  
-<div><img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass" alt="1"><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/handlebars.svg" alt="handlebars">
+<div>
+<img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass" alt="1">
+</div>
+<div>
+  <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/handlebars.svg" alt="handlebars">
 </div>
 
 </div>
