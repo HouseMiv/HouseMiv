@@ -22,7 +22,7 @@
 
 ### 🖥️ Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgoldenrod?logo=javascript&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-dodgerblue?logo=typescript&logoColor=white&style=for-the-badge)
