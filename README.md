@@ -43,7 +43,7 @@
 
 ### 🤖 Bots  
 <div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram, discord" alt="8">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=telegram,discord" alt="8">
 </div>
 
 
