@@ -31,25 +31,6 @@
 </div>
 
 ### 🎨 Frontend & Styling  
-<div>
-<img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass" alt="1">
-</div>
-<div>
-  <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/handlebars.svg" alt="Handlebars">
-</div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<div>
-  <i class="fab fa-handlebars"></i>
-</div>
-
-
-</div>
-
-
-
-
-
 ![HTML](https://img.shields.io/badge/HTML-darkorange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-darkviolet?logo=css3&logoColor=white&style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/SCSS-indigo?logo=sass&logoColor=white&style=for-the-badge)
