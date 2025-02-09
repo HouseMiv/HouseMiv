@@ -67,15 +67,12 @@
 
 ## ⚡ GitHub Activity  
 
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=HouseMivj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/HouseMiv)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/HouseMiv)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
 
 <a href="https://github.com/HouseMiv" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
-
 </a>
 
 ---
