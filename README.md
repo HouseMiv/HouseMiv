@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=ffffff&vCenter=true&width=600&lines=👋+Hi%+My+name+is+Michael)](https://sh20raj.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=ffffff&vCenter=true&width=600&lines=👋+Hi%2C+My+name+is+Michael)](https://sh20raj.com)
 
 
 <div align="center">
