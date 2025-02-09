@@ -25,7 +25,7 @@
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
 
 ### ⚙️ Tools  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode)
 
 ### 🤖 Bots  
 ![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
