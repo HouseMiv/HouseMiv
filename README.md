@@ -21,6 +21,24 @@
 ## 🔧 Skills (Loadnig..)
 
 ### Languages & Frameworks:
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js&logoColor=white&style=for-the-badge)
+
+![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=next.js&logoColor=white&style=for-the-badge)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-purple?logo=scss3&logoColor=white&style=for-the-badge)
+![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebars3&logoColor=white&style=for-the-badge)
+
+![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=css3&logoColor=white&style=for-the-badge)
+
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/></a> 
 
