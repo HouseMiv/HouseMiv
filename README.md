@@ -56,7 +56,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a> 
 
 ### Tools:
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36"/></a> 
 
+<a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36"/></a>
 
 ### Bots:
 
