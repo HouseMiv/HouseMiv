@@ -21,7 +21,7 @@
 ## 🔧 Skills (Loadnig..)
 
 ### 🖥️ Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-darkorange?logo=python&logoColor=white&style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-darkgoldenrod?logo=javascript&logoColor=white&style=for-the-badge)
@@ -49,10 +49,6 @@
 ![Telegram Bots](https://img.shields.io/badge/telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
 
-
-### 🖥️ Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-darkorange?logo=python&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-deeppink?logo=go&logoColor=white&style=for-the-badge)
 
 
 ### 🗃️ Databases  
