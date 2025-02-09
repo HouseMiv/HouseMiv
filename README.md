@@ -37,13 +37,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-purple?logo=sass&logoColor=white&style=for-the-badge)
 ![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
 
-
-
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3&logoColor=white&style=for-the-badge)
-![SCSS](https://img.shields.io/badge/SCSS-purple?logo=scss3&logoColor=white&style=for-the-badge)
-![Handlebars](https://img.shields.io/badge/Handlebars-orange?logo=handlebars3&logoColor=white&style=for-the-badge)
-
+### 🛠 Tools
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-green?logo=autohotkey3&logoColor=white&style=for-the-badge)
 
 ### Databases:
