@@ -41,7 +41,7 @@
 
 ### 🤖 Bots  
 <div>
-  <img height="35" style="display: inline-block; margin-right: 20px;" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram">
+  <img height="35" style="display: inline-block; margin-right: 30px;" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" alt="Telegram">
   <img height="35" style="display: inline-block;" src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord">
 </div>
 
