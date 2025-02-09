@@ -32,8 +32,9 @@
 
 ### 🎨 Frontend & Styling  
 <div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css3,sass,handlebars" alt="1">
+  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebars" alt="1">
 </div>
+
 
 
 
