@@ -21,17 +21,16 @@
 ## 🔧 Skills (Loadnig..)
 
 ### 🖥️ Languages & Frameworks  
-<div align="center">
-  
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)  
 ![Go](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)  
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)  
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)  
-
-</div>  
+ 
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white&style=for-the-badge)
