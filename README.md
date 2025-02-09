@@ -101,3 +101,9 @@
 ---
 
 ## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
+
+<div align='center'>
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
+      <img src="https://api.visitorbadge.io/api/PROFILE VIEWS?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" alt="PROFILE VIEWS"/>
+   </a>
+</div>
