@@ -23,8 +23,8 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
 
 ### 🎨 Frontend & Styling  
-![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/HB.png" width="50" height="50">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="50" height="50">
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/HB.png" width="40" height="40">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="40" height="40">
 
 
 
