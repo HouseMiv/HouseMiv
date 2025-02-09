@@ -58,10 +58,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0D1117&hide_border=true&locale=en&custom_title=Most%20Used%20Languages&border_radius=4" 
          alt="Top Languages">
   </a>
-  <br/><br/>
 </div>
-
-
 
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
