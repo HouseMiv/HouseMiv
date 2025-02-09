@@ -13,7 +13,7 @@
 
 ---
 
-## 🔧 Skills (Loading..)
+## 🔧 Skills
 
 ### 🖥️ Languages & Frameworks  
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
@@ -46,7 +46,7 @@
   
 ---
 
-## ⚡ GitHub Activity  
+## ⚡ GitHub Activity  📊 My Github Stats
 
 <div align="center">
   <br></br>
