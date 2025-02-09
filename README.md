@@ -20,10 +20,10 @@
 ## 🔧 Skills (Loading..)
 
 ### 🖥️ Languages & Frameworks  
-![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
+![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)&nbsp;![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=handlebars)
 
 ### 🎨 Frontend & Styling  
-![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsjs)
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass)&nbsp;&nbsp; 
 
 ### 🗃️ Databases  
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
@@ -33,6 +33,7 @@
 
 ### 🤖 Bots  
 ![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
+
 
 
 ---
