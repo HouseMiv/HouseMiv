@@ -32,7 +32,7 @@
 
 ### 🎨 Frontend & Styling  
 <div>
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=html5,css,sass,scss,handlebarsdotjs" alt="1">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,handlebarsdotjs" alt="1">
 </div>
 ![HTML](https://img.shields.io/badge/HTML-darkorange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-darkviolet?logo=css3&logoColor=white&style=for-the-badge)
