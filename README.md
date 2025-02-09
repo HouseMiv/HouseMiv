@@ -21,9 +21,9 @@
 
 ### 🖥️ Languages & Frameworks  
 <div align="center">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=c,python,java,php,javascript,typescript,assembly,bash,html,css,react,bootstrap,materialui,threejs,spring" alt="1">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastapi,numpy,pandas,seaborn,matplotlib,opencv,scikitlearn,pytorch,tensorflow,mongodb,mysql,firebase,heroku,azure" alt="2">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma,ffmpeg,markdown,qt,vite,git,github,arduino,anaconda,androidstudio,kaggle,jupyter,vscode,idea" alt="3">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=python,go," alt="1">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs" alt="2">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=vuejs,react" alt="3">
 </div>
 
 ![Python](https://img.shields.io/badge/Python-darkorange?logo=python&logoColor=white&style=for-the-badge)
