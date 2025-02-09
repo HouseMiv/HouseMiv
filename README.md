@@ -79,7 +79,8 @@
 <div align="center">
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS"/>
-   </a>
 <img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align = "right" width="100">
+   </a>
+
 </div>
 
