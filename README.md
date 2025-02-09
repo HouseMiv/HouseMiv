@@ -49,6 +49,38 @@
 ![Telegram Bots](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge)
 
+## 🔧 Skills (Loading..)
+
+### 🖥️ Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-darkorange?logo=python&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-deeppink?logo=go&logoColor=white&style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-darkgoldenrod?logo=javascript&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-dodgerblue?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?logo=node.js&logoColor=white&style=for-the-badge)  
+
+![Vue.js](https://img.shields.io/badge/Vue.js-seagreen?logo=vue.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-deepskyblue?logo=react&logoColor=white&style=for-the-badge)
+ 
+### 🎨 Frontend & Styling  
+![HTML](https://img.shields.io/badge/HTML-darkorange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-darkviolet?logo=css3&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-indigo?logo=sass&logoColor=white&style=for-the-badge)
+![Handlebars](https://img.shields.io/badge/Handlebars-darkred?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
+
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/mysql-midnightblue?logo=mysql&logoColor=white&style=for-the-badge)
+
+### ⚙️ Tools  
+![GitHub](https://img.shields.io/badge/github-darkslategray?logo=github&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-firebrick?logo=git&logoColor=white&style=for-the-badge)
+![AutoHotkey](https://img.shields.io/badge/autohotkey-mediumseagreen?logo=autohotkey&logoColor=white&style=for-the-badge)
+
+### 🤖 Bots  
+![Telegram Bots](https://img.shields.io/badge/telegram-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
+![Discord Bots](https://img.shields.io/badge/discord-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
+
+
 </p>
 
 
