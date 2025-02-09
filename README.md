@@ -69,7 +69,7 @@
 <div align="center">
 <br></br>
 
-<div style="border-radius: 10px; overflow: hidden;">
+<div style="border-radius: 15px; overflow: hidden;">
   <img src="https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=181824&tc=ffffff&ic=ec4899&bc=181824&hide_color=ec4899&bg_color=181824&hide_border=true" />
 </div>
 
