@@ -26,7 +26,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
 
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=next.js&logoColor=white&style=for-the-badge)
 
