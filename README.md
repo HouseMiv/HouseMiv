@@ -28,7 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)  
 
-![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)  
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
  
 
