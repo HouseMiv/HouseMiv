@@ -34,9 +34,11 @@
 <div>
 <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass" alt="1">
 </div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 <div>
-  <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/handlebars.svg" alt="handlebars">
+  <i class="fab fa-handlebars"></i>
 </div>
+
 
 </div>
 
