@@ -92,9 +92,7 @@
 ---
 
 ## 🏆 Badges  (Loading...)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/HouseMiv)
-
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=HouseMiv&theme=onedark)](https://github.com/HouseMiv)
 
 
 ## 🎖 Achievements
