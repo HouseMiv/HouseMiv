@@ -20,9 +20,7 @@
 ## 🔧 Skills (Loading..)
 
 ### 🖥️ Languages & Frameworks  
-<div>
-  <img height="35" src="https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react" alt="1">
-</div>
+![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
 
 ### 🎨 Frontend & Styling  
 <div>
