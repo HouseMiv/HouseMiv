@@ -46,8 +46,8 @@
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-mediumseagreen?logo=autohotkey&logoColor=white&style=for-the-badge)
 
 ### 🤖 Bots  
-![Telegram Bots](https://img.shields.io/badge/telegram-bots-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/discord-bots-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-dodgerblue?logo=telegram&logoColor=white&style=for-the-badge)
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-mediumslateblue?logo=discord&logoColor=white&style=for-the-badge)
 
 </p>
 
