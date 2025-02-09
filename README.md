@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+👋+My+name+is+Michael)](https://sh20raj.com)
 
-======================
-### I am a Programmer 🛠  
-
 <div align="center">
   <img height="300" src="https://i.gifer.com/1abF.gif" alt="Programmer Animation" />
 </div>
