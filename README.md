@@ -71,7 +71,7 @@
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=HouseMiv&cc=181824&tc=ffffff&ic=ec4899&bc=181824)](https://github.com/HouseMiv)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_width=500&background=181824&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=radical&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&background=181824&dates=808080&stroke=ec4899&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=d3d3d3&currStreakNum=d3d3d3&sideNums=d3d3d3&sideLabels=d3d3d3)](#)
 
 
 
