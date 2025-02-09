@@ -56,10 +56,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; outline: none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a> 
 
-#### Tools:
+### Tools:
 
 
-#### Bots:
+### Bots:
 
 
 </p>
