@@ -56,8 +56,6 @@
   </a>
 </div>
 
-</p>
-
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
