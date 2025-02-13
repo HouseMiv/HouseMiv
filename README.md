@@ -54,7 +54,7 @@
 <a href="https://github.com/HouseMiv">
   <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false&title_color=d3d3d3"/>
 </a>
-<br/>
+<div></div>
 
 > [!NOTE]
 > The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
