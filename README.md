@@ -50,7 +50,7 @@
 
 <div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=200&stroke=E63DDE&fire=F926FF&currStreakNum=FFFFFF&sideLabels=D0D0D0&sideNums=E5E5E5&ring=F544FC&currStreakLabel=FFFFFF&dates=9B9B9B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450&stroke=E63DDE&fire=F926FF&currStreakNum=FFFFFF&sideLabels=D0D0D0&sideNums=E5E5E5&ring=F544FC&currStreakLabel=FFFFFF&dates=9B9B9B)](https://git.io/streak-stats)
 
   <a href="https://github.com/HouseMiv">
     <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false&title_color=d3d3d3"/></a>
