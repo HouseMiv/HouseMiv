@@ -41,9 +41,6 @@
 - ℹ️ [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — this is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
 - 🧮 [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
 - 🌍 [About me](https://housemiv.github.io/HouseMiv/) — My a landing page website with information about the author.
-  
-
-<br></br>
 ---
 
 ## 📊 GitHub Activity 
