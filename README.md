@@ -58,7 +58,7 @@
 
 
 > [!NOTE]
-> The listing of top languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
+> The listing of most used languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
 ---
 
