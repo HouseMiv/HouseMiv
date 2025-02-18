@@ -50,7 +50,7 @@
 
 <div>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=E63DDE&fire=F926FF&currStreakNum=FFFFFF&sideLabels=C6C6C6&sideNums=EAEAEA&ring=F544FC&currStreakLabel=FFFFFF&dates=969696)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=E63DDE&fire=F926FF&currStreakNum=FFFFFF&sideLabels=D3D3D3&sideNums=ECECEC&ring=F544FC&currStreakLabel=FFFFFF&dates=969696)](https://git.io/streak-stats)
 
 
   <a href="https://github.com/HouseMiv">
