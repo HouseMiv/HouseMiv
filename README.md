@@ -11,7 +11,6 @@
 - 👯 Looking to collaborate on open-source projects  
 - ⚡ Fun fact: I'm a big fan of gaming and coffee ☕
 
-<br></br>
 ---
 
 ## 🔧 Skills
