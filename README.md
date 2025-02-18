@@ -63,7 +63,12 @@
 ---
 
 ## 🏆 Badges
-![Trophy](https://github-profile-trophy.vercel.app/?username=HouseMiv&no-frame=true&margin-w=5&theme=darkhub)
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=HouseMiv&no-frame=true&theme=darkhub)
+
+</div>
+
 
 
 ## 🎖 Achievements
