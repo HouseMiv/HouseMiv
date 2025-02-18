@@ -30,7 +30,6 @@
 ### 🤖 Bots  
 ![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
 
-<br></br>
 ---
 
 ## 💼 Portfolio Projects (Loading...)
