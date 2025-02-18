@@ -11,6 +11,7 @@
 - 👯 Looking to collaborate on open-source projects  
 - ⚡ Fun fact: I'm a big fan of gaming and coffee ☕
 
+<br></br>
 ---
 
 ## 🔧 Skills
@@ -30,8 +31,7 @@
 ### 🤖 Bots  
 ![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
 
-
-
+<br></br>
 ---
 
 ## 💼 Portfolio Projects (Loading...)
@@ -44,6 +44,8 @@
 - 🧮 [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
 - 🌍 [About me](https://housemiv.github.io/HouseMiv/) — My a landing page website with information about the author.
   
+
+<br></br>
 ---
 
 ## 📊 GitHub Activity 
@@ -60,6 +62,7 @@
 > [!NOTE]
 > The listing of most used languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 
+<br></br>
 ---
 
 ## 🏆 Badges
@@ -69,7 +72,7 @@
 
 </div>
 
-
+<br></br>
 
 ## 🎖 Achievements
 - 🏅 Rukon "Programming in Python"
