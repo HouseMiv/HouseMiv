@@ -36,6 +36,7 @@
 ## 💼 Portfolio Projects (Loading...)
 - 🌐 [Portfolio]() — My personal site portfolio with info about me and my projects.
 
+-
 - 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🛡️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
