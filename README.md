@@ -72,7 +72,7 @@
 - 🏅 Rukon "Programming in Python"
 - 🥇 Aeroton 2024: Development of digital and engineering solutions for the development of urban air mobility)
 - 🏆 The All-Russian Gazprom Neft and ITMO Case Championship: Awarded for "Infrastructure solutions for the implementation of AI projects".
-
+- 📚 Be in IT — Participant in a series of educational programs.
 ---
 
 ## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
