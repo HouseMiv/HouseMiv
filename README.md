@@ -9,7 +9,8 @@
 - 🔭 Currently working on Nothing  
 - 🌱 Learning advanced backend solutions  
 - 👯 Looking to collaborate on open-source projects  
-- ⚡ Fun fact: I'm a big fan of gaming and coffee ☕
+- ⚡ Fact: I'm a big fan of gaming and coffee ☕
+- 📚 Always ready to learn and gain interesting experience
 - 💸 [Feed](https://www.donationalerts.com/r/housemiv) the cat 🐱 (Or me).
 
 ---
