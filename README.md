@@ -38,7 +38,7 @@
 - 🌐 [Portfolio]() — My personal site portfolio with info about me and my projects.
 
 -
-- 🎮 [Velox DM]() — Development of a game project on alt:V Multiplayer in GTA 5.
+- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🛡️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
 - ℹ️ [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — this is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
