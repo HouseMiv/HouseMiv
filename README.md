@@ -35,7 +35,7 @@
 ---
 
 ## 💼 Portfolio Projects (Loading...)
-- 🌐 [Portfolio]() — My personal site portfolio with info about me and my projects.
+- 🌐 [Portfolio-Soon..]() — My personal site portfolio with info about me and my projects.
 
 -
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
