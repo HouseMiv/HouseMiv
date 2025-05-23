@@ -80,7 +80,6 @@
 
 ## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HouseMiv&color=blueviolet&style=for-the-badge)](https://github.com/HouseMiv)
 <div align="center">
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS"/>
