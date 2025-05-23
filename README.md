@@ -66,7 +66,7 @@
 <div align="center">
   
 ![Trophy](https://github-profile-trophy.vercel.app/?username=HouseMiv&no-frame=true&theme=darkhub)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=HouseMiv&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
 </div>
 
 <br></br>
