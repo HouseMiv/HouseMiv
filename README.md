@@ -80,7 +80,7 @@
 - 📚 **Be in IT** — Participant in a series of educational programs.
 ---
 
-## 🌍 [Connect with Me](https://housemiv.github.io/HouseMiv/) 
+## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
 
 <div align="center">
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
