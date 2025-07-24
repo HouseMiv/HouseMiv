@@ -39,15 +39,16 @@
 ## 💼 Portfolio Projects (Loading...)
 - 🌍 [About me](https://housemiva.netlify.app/) — My a landing page website with information about the author.
 - 🌐 [Portfolio-Soon..]() — My personal site portfolio with info about me and my projects.
--
+
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🛡️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
-- 
+  
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
-- 
+  
 - ℹ️ [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — this is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
 - 🧮 [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
 - 🧮 [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
+  
 - 🤖 [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
 
 ---
