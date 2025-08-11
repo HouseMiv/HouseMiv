@@ -29,7 +29,7 @@
 ![Databases](https:///api/icons?i=mysql,mariadb)
 
 ### ⚙️ Tools  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,figma,photoshop,premiere,aftereffects)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,gitlab,figma,photoshop,premiere,aftereffects)
 
 ### 🤖 Bots  
 ![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
