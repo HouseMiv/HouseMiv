@@ -26,7 +26,7 @@
 ![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48">&nbsp;&nbsp;![2](https://go-skill-icons.vercel.app/api/icons?i=pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48">
 
 ### 🗃️ Databases  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql)
+![Databases](https:///api/icons?i=mysql,mariadb)
 
 ### ⚙️ Tools  
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,figma,photoshop,premiere,aftereffects)
