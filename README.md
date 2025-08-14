@@ -38,7 +38,7 @@
 
 ## 💼 Portfolio Projects (Loading...)
 - 👨‍💻 [About me](https://housemiva.netlify.app/) — My a landing page website with information about the author.
-- 💼 [Portfolio-Soon..]() — My personal site portfolio with info about me and my projects.
+- 💼 [Portfolio]() — My personal site portfolio with info about me and my projects.
 <br></br>
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
 - 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
