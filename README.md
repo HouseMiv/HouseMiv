@@ -36,7 +36,7 @@
 
 ---
 
-## 💼 Portfolio Projects (Loading...)
+## 💼 Portfolio Projects
 - 👨‍💻 [About me](https://housemiva.netlify.app/) — My a landing page website with information about the author.
 - 💼 [Portfolio]() — My personal site portfolio with info about me and my projects.
 <br></br>
