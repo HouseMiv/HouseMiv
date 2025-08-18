@@ -45,8 +45,8 @@
 <br></br>
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
 <br></br>
-- 🐲 [Morphy Family]() —
-- ℹ️ [Fraction Wiki]() —
+- 🐲 [Morphy Family]() — Gaming family website in GTA 5 RP. With information, applications and social networks.
+- ℹ️ [Fraction Wiki]() — FAQ project similar to Wiki for Majestic, about state and criminal organizations.
 - 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — this is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
 - 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs.
