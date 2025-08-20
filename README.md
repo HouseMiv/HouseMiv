@@ -52,7 +52,7 @@
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs.
 <br></br>
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
-
+- ⚙️ [Psrser]() —.
 ---
 
 ## 📊 GitHub Activity 
