@@ -52,7 +52,6 @@
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs.
 <br></br>
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
-- ⚙️ [Psrser]() —.
 ---
 
 ## 📊 GitHub Activity 
@@ -78,10 +77,16 @@
 <br></br>
 
 ## 🎓 Recent Achievements
-- 🏅 **Rukon** - Advanced Python Programming Certification
-- 🥇 **Aeroton 2024** - Development of digital and engineering solutions for the development of urban air mobility.
-- 🏆 **The All-Russian Gazprom Neft and ITMO Case Championship** - Awarded for "Infrastructure solutions for the implementation of AI projects".
+- 🏅 **Rukon** — Advanced Python Programming Certification
+- 🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility
+- 🏆 **The All-Russian Gazprom Neft and ITMO Case Championship** — Awarded for "Infrastructure solutions for the implementation of AI projects".
+- 🥉 **Ostrovok Hackathon** — 3rd place, developed the "secret guest" system
 - 📚 **Be in IT** — Participant in a series of educational programs.
+- 🧠 **VK Education** — Teacher, Expert 
+  - College IT.Moscow — conducted hands-on training sessions for students  
+  - IT Knowledge Day supported by the Ministry of Education of the Russian Federation — expert  
+  - VK + HSE ML Track — case author  
+
 ---
 
 ## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
