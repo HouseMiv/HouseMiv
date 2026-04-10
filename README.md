@@ -70,8 +70,7 @@
 
 ## 🏆 Badges
 <div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?HouseMiv=ryo-ma&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?HouseMiv=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br></br>
