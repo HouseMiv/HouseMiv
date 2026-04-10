@@ -54,20 +54,6 @@
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
 ---
 
-## 📊 GitHub Activity 
-
-<div>
-<a href="https://github.com/HouseMiv">
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HouseMiv&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&count_private=false&title_color=d3d3d3" width="300" height="195"/></a>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=HouseMiv&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=E63DDE&fire=F926FF&currStreakNum=FFFFFF&sideLabels=D3D3D3&sideNums=ECECEC&ring=F544FC&currStreakLabel=FFFFFF&dates=969696)](https://git.io/streak-stats)
-
-</div>
-
-> [!NOTE]
-> The listing of most used languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
----
-
 ## 🎓 Recent Achievements
 - 🏅 **Rukon** — Advanced Python Programming Certification
 - 🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility
