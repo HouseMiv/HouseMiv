@@ -58,7 +58,7 @@
 - 🏅 **Rukon** — Advanced Python Programming Certification
 - 🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility
 - 🏆 **The All-Russian Gazprom Neft and ITMO Case Championship** — Awarded for "Infrastructure solutions for the implementation of AI projects".
-- 🥉 **Ostrovok Hackathon** — 3rd place, developed the "secret guest" system
+- 🥉 **Ostrovok Hackathon** — 3rd place, developed the "secret guest" system (26.09.2025-03.10.2025)
 - 📚 **Be in IT** — Participant in a series of educational programs.
 - 🧠 **VK Education** — Teacher, Expert 
   - College IT.Moscow — conducted hands-on training sessions for students  
