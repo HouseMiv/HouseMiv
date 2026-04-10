@@ -67,12 +67,6 @@
 > [!NOTE]
 > The listing of most used languages is merely a metric that highlights the languages present in my public code repositories and does not accurately reflect my experience or proficiency levels.
 ---
-
-## 🏆 Badges
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?HouseMiv=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
 <br></br>
 
 ## 🎓 Recent Achievements
