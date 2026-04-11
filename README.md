@@ -63,7 +63,7 @@
 - 🧠 **VK Education** — Teacher, Expert 
   - College IT.Moscow — conducted hands-on training sessions for students  
   - IT Knowledge Day supported by the Ministry of Education of the Russian Federation — expert  
-  - VK + HSE ML Track — case author, expert
+  - Shift(VK + National Research University, Higher School of Economics) ML Track — case author, expert
 
 ---
 
