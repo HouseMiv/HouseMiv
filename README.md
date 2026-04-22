@@ -23,10 +23,13 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,flask)
 
 ### 🎨 Frontend & Styling
-<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" />
+  <img src="https://skillicons.dev/icons?i=pug" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" height="48" />
 </div>
 
 ### 🗃️ Databases
