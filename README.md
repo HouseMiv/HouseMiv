@@ -23,7 +23,8 @@
 ![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,flask)
 
 ### 🎨 Frontend & Styling
-![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48" /><img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48" />
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug)&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48" />
+<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48" />
 
 ### 🗃️ Databases
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb)
