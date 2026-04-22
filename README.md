@@ -66,8 +66,7 @@
 
 ---
 
-## 🌍 Connect With Me
-- 🔗 Website: [housemiva.netlify.app](https://housemiva.netlify.app/)
+## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
