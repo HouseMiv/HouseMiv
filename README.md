@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="2500" height="400"></img>
-<br></br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="2500" height="400" />
+<br />
 
 <div align="center">
   <a href="https://housemiv.com">
@@ -7,32 +7,32 @@
   </a>
 </div>
 
-## 🚀 About Me  
-- 🔭 Currently working on Nothing  
-- 🌱 Learning advanced backend solutions  
-- 👯 Looking to collaborate on open-source projects  
-- ⚡ Fact: I'm a big fan of gaming and coffee ☕
-- 📚 Always ready to learn and gain interesting experience
-- 💸 [Feed](https://www.donationalerts.com/r/housemiv) the cat 🐱 (Or me).
+## 🚀 About Me
+- 👨‍💻 Backend-focused developer (Python, Go, Node.js)
+- 🌱 Currently deepening expertise in scalable backend architecture
+- 🤝 Open to collaboration on useful open-source projects
+- 🎮 Into gaming, coffee, and building practical tools
+- 📚 Always learning and sharing experience
+- 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
 
 ---
 
 ## 🔧 Skills
 
-### 🖥️ Languages & Frameworks  
-![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react)
+### 🖥️ Languages & Frameworks
+![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,flask)
 
-### 🎨 Frontend & Styling  
-![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48">&nbsp;&nbsp;![2](https://go-skill-icons.vercel.app/api/icons?i=pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48">
+### 🎨 Frontend & Styling
+![Frontend & Styling](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" width="47" height="48" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" width="47" height="48" />
 
-### 🗃️ Databases  
+### 🗃️ Databases
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb)
 
-### ⚙️ Tools  
+### ⚙️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,gitlab,figma,photoshop,premiere,aftereffects)
 
-### 🤖 Bots  
-![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram)&nbsp;&nbsp;![Bots](https://go-skill-icons.vercel.app/api/icons?i=discord)
+### 🤖 Bots & Automation
+![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram,discord)
 
 ---
 
@@ -66,11 +66,13 @@
 
 ---
 
-## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
+## 🌍 Connect With Me
+- 🔗 Website: [housemiva.netlify.app](https://housemiva.netlify.app/)
 
 <div align="center">
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS"/>
-   </a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHouseMiv&label=PROFILE%20VIEWS&labelColor=gray&countColor=%23007bff" alt="PROFILE VIEWS" />
+  </a>
 </div>
-<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align = "right" width="100">
+
+<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align="right" width="100" />
