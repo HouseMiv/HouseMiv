@@ -57,16 +57,21 @@
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
 ---
 
-## 🎓 Recent Achievements
-- 🏅 **Rukon** — Advanced Python Programming Certification
-- 🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility
-- 🏆 **The All-Russian Gazprom Neft and ITMO Case Championship** — Awarded for "Infrastructure solutions for the implementation of AI projects".
-- 🥉 **Ostrovok Hackathon** — 3rd place, developed the "secret guest" system (26.09.2025-03.10.2025)
-- 📚 **Be in IT** — Participant in a series of educational programs.
-- 🧠 **VK Education** — Teacher, Expert 
-  - College IT.Moscow — conducted hands-on training sessions for students  
-  - IT Knowledge Day supported by the Ministry of Education of the Russian Federation — expert  
-  - Shift(VK + National Research University, Higher School of Economics) ML Track — case author, expert
+## 🎓 Achievements
+📜 **Geeklama Legend (2023)** - Completed the Python Fundamentals course: core concepts, algorithms, and hands-on coding practice.
+🏅 **Code of the Future | RUKON Goal (2024)** - Completed the Ethical Hacking in Python program.
+Skills: Python, web security, networking fundamentals, pentesting
+Certificates for all modules
+🏅 **Code of the Future | RUKON Goal (2024)** — Participant and semifinalist of the online olympiad Programming in Python (within the Ethical Hacking in Python: Basic Security program).
+🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility.
+🏆 **Gazprom Neft + ITMO (2024)** — Finalist of the All-Russian case championship Infrastructure Solutions for AI Project Implementation.
+🥉 **Ostrovok Hackathon (2025)** — 3rd place; developed the Secret Guest solution as part of a team (26.09–03.10.2025).
+📚 **Be in IT (2025–2026)** — Participant in a series of educational programs.
+🧠 **VK Education (2026)** — Teacher / Expert
+**IT Knowledge Day** (supported by the Ministry of Education of the Russian Federation): delivered a class on AI, data analysis, and machine learning for school students
+**College IT.Moscow:** delivered hands-on workshops for students (23.03–16.04.2026)
+**VK Education × HSE (SHIFT, ML Track):** ML case author and track expert
+**VK Education × HSE (PADII):** member of the pre-defense committee for 4th-year students (Applied Data Analysis and Artificial Intelligence)
 
 ---
 
