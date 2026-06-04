@@ -83,20 +83,22 @@
 ---
 
 ## 💼 Portfolio Projects
-- 👨‍💻 [About me](https://housemiva.netlify.app/) — My a landing page website with information about the author.
-- 💼 [Portfolio](https://sivatskiy-michael.netlify.app/) — My personal site portfolio with info about me and my projects.
+- 👨‍💻 [About me](https://housemiv.vercel.app/) — Landing page with information about the author.
+- 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) — Personal portfolio: projects, skills, design works, and achievements.
 <br></br>
-- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage
-- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — A web application for analyzing website security. Download verification, DNS, SSL, and ping. On Flask.
+- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — Test assignment for a VK Cloud internship (Backend, IaaS Storage).
+- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — Flask web app for website analysis: load time, DNS, SSL, ping, and SEO.
 <br></br>
-- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
+- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Game project on alt:V Multiplayer in GTA 5.
 <br></br>
-- 🐲 [Morphy Family]() — Gaming family website in GTA 5 RP. With information, applications and social networks.
-- 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — this is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
-- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum.
-- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs.
+- 🏢 **MajesticHUB** — Hub for the Majestic RP community (tools, docs, management). _[Portfolio](https://sivatskiy-michael.vercel.app/)_
+- 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) — GTA 5 RP family site: info, applications, social links.
+- 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — FAQ for Majestic RP administrators (HTML, CSS, JS).
+- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Forum moderation tool ([demo](https://housemiv.github.io/MajeticHub-Forum/)).
+- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Log moderation tool ([demo](https://housemiv.github.io/MajeticHub-Logs/)).
 <br></br>
-- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot/tree/main) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
+- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) — Python (Telethon): archive last 5 messages from a Telegram channel to JSON.
+- 🎨 **Design works** — 11 design projects on [portfolio](https://sivatskiy-michael.vercel.app/)
 ---
 
 ## 🎓 Achievements
@@ -114,7 +116,6 @@ Certificates for all modules
 **College IT.Moscow:** delivered hands-on workshops for students (23.03–16.04.2026)
 **VK Education × HSE (SHIFT, ML Track):** ML case author and track expert
 **VK Education × HSE (PADII):** member of the pre-defense committee for 4th-year students (Applied Data Analysis and Artificial Intelligence)
-
 ---
 
 ## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
