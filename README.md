@@ -83,23 +83,24 @@
 ---
 
 ## 💼 Portfolio Projects
-- 👨‍💻 [About me](https://housemiv.vercel.app/) — Landing page with information about the author.
-- 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) — Personal portfolio: projects, skills, design works, and achievements.
-- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — Test assignment for a VK Cloud internship (Backend, IaaS Storage).
-- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — Flask web app for website analysis: load time, DNS, SSL, ping, and SEO.
-- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Game project on alt:V Multiplayer in GTA 5.
-- 🏢 **MajesticHUB** — Hub for the Majestic RP community (tools, docs, management). _[Portfolio](https://sivatskiy-michael.vercel.app/)_
-- 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) — GTA 5 RP family site: info, applications, social links.
-- 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — FAQ for Majestic RP administrators (HTML, CSS, JS).
-- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Forum moderation tool ([demo](https://housemiv.github.io/MajeticHub-Forum/)).
-- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Log moderation tool ([demo](https://housemiv.github.io/MajeticHub-Logs/)).
-- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) — Python (Telethon): archive last 5 messages from a Telegram channel to JSON.
-- 🎨 **Design works** — 11 design projects on [portfolio](https://sivatskiy-michael.vercel.app/)
+- 👨‍💻 [About me](https://housemiv.vercel.app/) — My a landing page website with information about the author.
+- 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) — My personal site portfolio with info about me and my projects.
+- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) — A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage.
+- 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) — Development of a game project on alt:V Multiplayer in GTA 5.
+- 🏢 **MajesticHUB** — A comprehensive hub platform for Majestic RP community with tools, documentation, and management features. [Portfolio](https://sivatskiy-michael.vercel.app/)
+- 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) — Gaming family website in GTA 5 RP. With information, applications and social networks.
+- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum. ([demo](https://housemiv.github.io/MajeticHub-Forum/)).
+- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) — Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs. ([demo](https://housemiv.github.io/MajeticHub-Logs/)).
+- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) — A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
+- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) — Flask web application for analyzing websites: loading time, DNS, SSL, ping and SEO.
+- 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) — This is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
+<br></br>
+- 🎨 **Design works** — My creative design projects and visual works: [portfolio](https://sivatskiy-michael.vercel.app/)
 ---
 
 ## 🎓 Achievements
 - 📜 **Geeklama Legend (2023)** — Completed the Python Fundamentals course: core concepts, algorithms, and practical coding.
-- 🏅 **Code of the Future | RUKON Goal (2024)** — Completed *Ethical Hacking in Python: Basic Security* (Python, web security, networking, pentesting). [Certificates](https://github.com/HouseMiv/Portfolio/blob/main/public/Achievements/Certificat/Rukon/РУКОН%20Сертификаты%20за%20все%20Модули.pdf)
+- 🏅 **Code of the Future | RUKON Goal (2024)** — Completed *Ethical Hacking in Python: Basic Security* (Python, web security, networking, pentesting).
 - 🏅 **Code of the Future | RUKON Goal (2024)** — Semifinalist, online olympiad *Programming in Python*.
 - 🥇 **Aeroton 2024** — Digital and engineering solutions for urban air mobility.
 - 🏆 **Gazprom Neft + ITMO (2024)** — Finalist, *Infrastructure Solutions for AI Project Deployment*.
