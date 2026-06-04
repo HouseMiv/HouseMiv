@@ -11,7 +11,7 @@
 - 👨‍💻 Backend-focused developer (Python, Go, Node.js)
 - 🌱 Currently deepening expertise in scalable backend architecture
 - 🤝 Open to collaboration on useful open-source projects
-- 🎮 Into gaming, coffee, and building practical tools
+- 🎮 Into gaming, energy drink, and building practical tools
 - 📚 Always learning and sharing experience
 - 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
 
