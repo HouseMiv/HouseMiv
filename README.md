@@ -20,32 +20,65 @@
 ## 🔧 Skills
 
 ### 🖥️ Languages & Technologies
-![Languages & Technologies](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,nextjs)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Python.webp" height="48" alt="Python" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Golang.webp" height="48" alt="Go" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/JS.webp" height="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/TypeScript.webp" height="48" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/node.webp" height="48" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Vue.webp" height="48" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/React.webp" height="48" alt="React" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Next.js.webp" height="48" alt="Next.js" />
+</p>
 
 ### 🎨 Frontend & Styling
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/HTML.webp" height="48" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CSS.webp" height="48" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SaSS.webp" height="48" alt="Sass" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/ScSS.webp" height="48" alt="SCSS" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Bootstrap.webp" height="48" alt="Bootstrap" />
 </p>
 
 ### ⚙️ Backend & Automation
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,jwt,telegram,discord" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.png" height="48" alt="REST API" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Flask.webp" height="48" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.webp" height="48" alt="REST API" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/JWT.webp" height="48" alt="JWT" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/discord.webp" height="48" alt="Discord API" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/telegram.webp" height="48" alt="Telegram Bot API" />
 </p>
 
 ### 🗃️ Databases
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MySQL.webp" height="48" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MariaDB.webp" height="48" alt="MariaDB" />
+</p>
 
 ### ☁️ Infrastructure & DevOps
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,nginx" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.png" height="48" alt="OpenStack" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SSH.png" height="48" alt="SSH" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Linux.webp" height="48" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.webp" height="48" alt="OpenStack" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Docker.webp" height="48" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SSH.webp" height="48" alt="SSH" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Kubernetes.webp" height="48" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Teleport.webp" height="48" alt="Teleport" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Nginx.webp" height="48" alt="Nginx" />
 </p>
 
 ### 🛠️ Tools & Design
-![Tools & Design](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,gitlab,jira,grafana,figma,photoshop,premiere,aftereffects)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/VSCODE.webp" height="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Git.webp" height="48" alt="Git" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/GitHub.webp" height="48" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/GitLab.webp" height="48" alt="GitLab" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Jira.svg" height="48" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Grafana.webp" height="48" alt="Grafana" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Figma.webp" height="48" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/photoshop.webp" height="48" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/premiere-pro.webp" height="48" alt="Premiere Pro" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/after-effects.webp" height="48" alt="After Effects" />
+</p>
 
 ---
 
