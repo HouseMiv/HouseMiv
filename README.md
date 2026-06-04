@@ -10,8 +10,8 @@
 ## 🚀 About Me
 - 👨‍💻 Developer & Designer (Python, Go, Node.js, TypeScript)
 - ☁️ Interested in DevOps, Cloud Technologies, and Backend Development
-- 🤝 Open to collaboration on useful open-source projects
 - 🤖 Building automation tools, web applications, and community platforms
+- 🤝 Open to collaboration on useful open-source projects
 - 🎮 Into gaming, energy drinks, and creating practical solutions
 - 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
 
