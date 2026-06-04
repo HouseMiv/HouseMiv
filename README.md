@@ -25,7 +25,7 @@
 ### 🎨 Frontend & Styling
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" alt="SCSS" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" />
 </p>
 
 ### ⚙️ Backend & Automation
