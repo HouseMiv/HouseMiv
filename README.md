@@ -19,24 +19,33 @@
 
 ## 🔧 Skills
 
-### 🖥️ Languages & Frameworks
-![Languages & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,flask)
+### 🖥️ Languages & Technologies
+![Languages & Technologies](https://go-skill-icons.vercel.app/api/icons?i=python,go,javascript,typescript,nodejs,vuejs,react,nextjs)
 
 ### 🎨 Frontend & Styling
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,pug" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Hbars.png" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/scss.png" height="48" alt="SCSS" />
+</p>
+
+### ⚙️ Backend & Automation
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,telegram,discord" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.png" height="48" alt="REST API" />
 </p>
 
 ### 🗃️ Databases
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb)
 
-### ⚙️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,gitlab,grafana,docker,figma,photoshop,premiere,aftereffects)
+### ☁️ Infrastructure & DevOps
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,nginx" height="48" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.png" height="48" alt="OpenStack" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SSH.png" height="48" alt="SSH" />
+</p>
 
-### 🤖 Bots & Automation
-![Bots](https://go-skill-icons.vercel.app/api/icons?i=telegram,discord)
+### 🛠️ Tools & Design
+![Tools & Design](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,gitlab,jira,grafana,figma,photoshop,premiere,aftereffects)
 
 ---
 
