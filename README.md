@@ -102,21 +102,18 @@
 ---
 
 ## 🎓 Achievements
-📜 **Geeklama Legend (2023)** - Completed the Python Fundamentals course: core concepts, algorithms, and hands-on coding practice.
-🏅 **Code of the Future | RUKON Goal (2024)** - Completed the Ethical Hacking in Python program.
-Skills: Python, web security, networking fundamentals, pentesting
-Certificates for all modules
-🏅 **Code of the Future | RUKON Goal (2024)** — Participant and semifinalist of the online olympiad Programming in Python (within the Ethical Hacking in Python: Basic Security program).
-🥇 **Aeroton 2024** — Developed digital and engineering solutions for urban air mobility.
-🏆 **Gazprom Neft + ITMO (2024)** — Finalist of the All-Russian case championship Infrastructure Solutions for AI Project Implementation.
-🥉 **Ostrovok Hackathon (2025)** — 3rd place; developed the Secret Guest solution as part of a team (26.09–03.10.2025).
-📚 **Be in IT (2025–2026)** — Participant in a series of educational programs.
-🧠 **VK Education (2026)** — Teacher / Expert
-**IT Knowledge Day** (supported by the Ministry of Education of the Russian Federation): delivered a class on AI, data analysis, and machine learning for school students
-**College IT.Moscow:** delivered hands-on workshops for students (23.03–16.04.2026)
-**VK Education × HSE (SHIFT, ML Track):** ML case author and track expert
-**VK Education × HSE (PADII):** member of the pre-defense committee for 4th-year students (Applied Data Analysis and Artificial Intelligence)
----
+- 📜 **Geeklama Legend (2023)** — Completed the Python Fundamentals course: core concepts, algorithms, and practical coding.
+- 🏅 **Code of the Future | RUKON Goal (2024)** — Completed *Ethical Hacking in Python: Basic Security* (Python, web security, networking, pentesting). [Certificates](https://github.com/HouseMiv/Portfolio/blob/main/public/Achievements/Certificat/Rukon/РУКОН%20Сертификаты%20за%20все%20Модули.pdf)
+- 🏅 **Code of the Future | RUKON Goal (2024)** — Semifinalist, online olympiad *Programming in Python*.
+- 🥇 **Aeroton 2024** — Digital and engineering solutions for urban air mobility.
+- 🏆 **Gazprom Neft + ITMO (2024)** — Finalist, *Infrastructure Solutions for AI Project Deployment*.
+- 🥉 **Ostrovok Hackathon (2025)** — 3rd place, *Secret Guest* (26.09–03.10.2025).
+- 📚 **Be in IT (2025–2026)** — Participant in educational programs.
+- 🧠 **VK Education — IT Knowledge Day (2026)** — Class on AI, data analysis, and ML for school students. [VK post](https://vk.com/wall-174951768_7068)
+- 🧠 **VK Education — IT.Moscow (2026)** — Hands-on workshops (23.03–16.04.2026). [College](https://itmoscow.mskobr.ru/)
+- 🧠 **VK Education × HSE (SHIFT, 2026)** — ML case author and track expert. [HSE news](https://spb.hse.ru/news/1148304113.html)
+- 🧠 **VK Education × HSE (PADII, 2026)** — Pre-defense committee (Applied Data Analysis & AI). [HSE](https://www.hse.ru/)
+- 🧠 **VK Education × MAI (Practice, 2026)** — Practice expert; cases for 3rd-year students. [MAI](https://mai.ru/)
 
 ## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
 
