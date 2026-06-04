@@ -19,7 +19,7 @@
 
 ## 🔧 Skills
 
-### 🖥️ Languages & Technologies
+### Languages & Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Python.webp" height="32" alt="Python" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Golang.webp" height="32" alt="Go" />
@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Next.js.webp" height="32" alt="Next.js" />
 </p>
 
-### 🎨 Frontend & Styling
+### Frontend & Styling
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/HTML.webp" height="32" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CSS.webp" height="32" alt="CSS3" />
@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Bootstrap.webp" height="32" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend & Automation
+### Backend & Automation
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Flask.webp" height="32" alt="Flask" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.webp" height="32" alt="REST API" />
@@ -49,13 +49,13 @@
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/telegram.webp" height="32" alt="Telegram Bot API" />
 </p>
 
-### 🗃️ Databases
+### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MySQL.webp" height="32" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MariaDB.webp" height="32" alt="MariaDB" />
 </p>
 
-### ☁️ Infrastructure & DevOps
+### Infrastructure & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Linux.webp" height="32" alt="Linux" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.webp" height="32" alt="OpenStack" />
@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Nginx.webp" height="32" alt="Nginx" />
 </p>
 
-### 🛠️ Tools & Design
+### Tools & Design
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/VSCODE.webp" height="32" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Git.webp" height="32" alt="Git" />
