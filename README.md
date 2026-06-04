@@ -8,11 +8,11 @@
 </div>
 
 ## 🚀 About Me
-- 👨‍💻 Backend-focused developer (Python, Go, Node.js)
-- 🌱 Currently deepening expertise in scalable backend architecture
+- 👨‍💻 Developer & Designer (Python, Go, Node.js, TypeScript)
+- ☁️ Interested in DevOps, Cloud Technologies, and Backend Development
 - 🤝 Open to collaboration on useful open-source projects
-- 🎮 Into gaming, energy drink, and building practical tools
-- 📚 Always learning and sharing experience
+- 🤖 Building automation tools, web applications, and community platforms
+- 🎮 Into gaming, energy drinks, and creating practical solutions
 - 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
 
 ---
