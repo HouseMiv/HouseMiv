@@ -30,7 +30,7 @@
 
 ### ⚙️ Backend & Automation
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask, jwt, telegram,discord" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,jwt,telegram,discord" height="48" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.png" height="48" alt="REST API" />
 </p>
 
