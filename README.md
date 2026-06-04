@@ -87,11 +87,11 @@
 - 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) - My personal site portfolio with info about me and my projects.
 - ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) - A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage.
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) - Development of a game project on alt:V Multiplayer in GTA 5.
-- 🏢 **MajesticHUB** - A comprehensive hub platform for Majestic RP community with tools, documentation, and management features. [Portfolio](https://sivatskiy-michael.vercel.app/)
+- 🏢 **MajesticHUB** - Hub platform for the Majestic RP community: tools, docs, and management. [Portfolio](https://sivatskiy-michael.vercel.app/)
 - 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) - Gaming family website in GTA 5 RP. With information, applications and social networks.
 - 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum. ([demo](https://housemiv.github.io/MajeticHub-Forum/)).
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs. ([demo](https://housemiv.github.io/MajeticHub-Logs/)).
-- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) - A simple Python script on Telethon for archiving the last 5 text messages from a Telegram channel into a JSON file.
+- ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) - Telethon script that archives the last 5 messages from a Telegram channel to JSON.
 - 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) - Flask web application for analyzing websites: loading time, DNS, SSL, ping and SEO.
 - 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) - This is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
 <br></br>
