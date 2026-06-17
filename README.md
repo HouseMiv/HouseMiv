@@ -92,7 +92,6 @@
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs: [demo](https://housemiv.github.io/MajeticHub-Logs/).
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) - Telethon script that archives the last 5 messages from a Telegram channel to JSON.
 - 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) - Flask web application for analyzing websites: loading time, DNS, SSL, ping and SEO.
-- 📚 [AdminFAQ](https://github.com/HouseMiv/AdminFAQ) - This is a website with frequently asked questions for administrators of Majestic RP, created in HTML, CSS and JS.
 <br></br>
 - 🎨 **Design works** - My creative design projects and visual works: [portfolio](https://sivatskiy-michael.vercel.app/)
 ---
