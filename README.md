@@ -88,6 +88,7 @@
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) - Development of a game project on alt:V Multiplayer in GTA 5.
 - 🏢 **MajesticHUB** - Hub platform for the Majestic RP community: tools, docs, and management: [portfolio](https://sivatskiy-michael.vercel.app/)
 - 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) - Gaming family website in GTA 5 RP. With information, applications and social networks.
+- 🛡️ Сайт для сервиса Domovoy VPN с личным кабинетом на Next.js и FastAPI, подписки и оплата."
 - 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum: [demo](https://housemiv.github.io/MajeticHub-Forum/).
 - 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs: [demo](https://housemiv.github.io/MajeticHub-Logs/).
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) - Telethon script that archives the last 5 messages from a Telegram channel to JSON.
