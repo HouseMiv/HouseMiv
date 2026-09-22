@@ -111,7 +111,7 @@
 - 🧠 **VK Education × HSE (PADII, 2026)** - Pre-defense committee (Applied Data Analysis & AI). [HSE](https://www.hse.ru/)
 - 🧠 **VK Education × MAI (Practice, 2026)** - Practice expert; cases for 3rd-year students. [MAI](https://mai.ru/)
 
-## 🌍 [Connect with Me](https://housemiva.netlify.app/) 
+## 🌍 [Connect with Me](https://housemiv.vercel.app/) 
 
 <div align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHouseMiv">
