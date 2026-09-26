@@ -60,9 +60,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Linux.webp" height="32" alt="Linux" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.webp" height="32" alt="OpenStack" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ceph.png" height="32" alt="Ceph/RBD" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CentOS.png" height="32" alt="CentOS Stream 9 / 10" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ansible.png" height="32" alt="Ansible" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ceph.webp" height="32" alt="Ceph/RBD" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CentOS.webp" height="32" alt="CentOS Stream 9 / 10" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ansible.webp" height="32" alt="Ansible" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Docker.webp" height="32" alt="Docker" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Kubernetes.webp" height="32" alt="Kubernetes" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Teleport.webp" height="32" alt="Teleport" />
@@ -81,8 +81,8 @@
 ### Monitoring & Observability
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Grafana.webp" height="32" alt="Grafana" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Sentry.png" height="32" alt="Sentry" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/AppTracer.png" height="32" alt="AppTracer" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Sentry.webp" height="32" alt="Sentry" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/AppTracer.webp" height="32" alt="AppTracer" />
 </p>
 
 ### Design & Multimedia
