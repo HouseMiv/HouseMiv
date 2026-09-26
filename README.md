@@ -18,32 +18,33 @@
 
 ## 🔧 Skills
 
-### Languages & Technologies
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Python.webp" height="32" alt="Python" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Golang.webp" height="32" alt="Go" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/JS.webp" height="32" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/TypeScript.webp" height="32" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/node.webp" height="32" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Vue.webp" height="32" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/React.webp" height="32" alt="React" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Next.js.webp" height="32" alt="Next.js" />
 </p>
 
 ### Frontend & Styling
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/HTML.webp" height="32" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CSS.webp" height="32" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SaSS.webp" height="32" alt="Sass" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/ScSS.webp" height="32" alt="SCSS" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SaSS.webp" height="32" alt="Sass / SCSS" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Bootstrap.webp" height="32" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Tailwind%20CSS.webp" height="32" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Vue.webp" height="32" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/React.webp" height="32" alt="React" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Next.js.webp" height="32" alt="Next.js" />
 </p>
 
 ### Backend & Automation
 <p align="left">
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/node.webp" height="32" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Flask.webp" height="32" alt="Flask" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/REST%20API.webp" height="32" alt="REST API" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/JWT.webp" height="32" alt="JWT" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.webp" height="32" alt="OpenStack SDK" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/discord.webp" height="32" alt="Discord API" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/telegram.webp" height="32" alt="Telegram Bot API" />
 </p>
@@ -52,27 +53,40 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MySQL.webp" height="32" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/MariaDB.webp" height="32" alt="MariaDB" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SQLite.webp" height="32" alt="SQLite" />
 </p>
 
 ### Infrastructure & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Linux.webp" height="32" alt="Linux" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/OpenStack.webp" height="32" alt="OpenStack" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ceph.png" height="32" alt="Ceph/RBD" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/CentOS.png" height="32" alt="CentOS Stream 9 / 10" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Ansible.png" height="32" alt="Ansible" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Docker.webp" height="32" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/SSH.webp" height="32" alt="SSH" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Kubernetes.webp" height="32" alt="Kubernetes" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Teleport.webp" height="32" alt="Teleport" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Nginx.webp" height="32" alt="Nginx" />
 </p>
 
-### Tools & Design
+### Development Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/VSCODE.webp" height="32" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Git.webp" height="32" alt="Git" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/GitHub.webp" height="32" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/GitLab.webp" height="32" alt="GitLab" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/GitLab.webp" height="32" alt="GitLab / GitLab CI/CD" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Jira.svg" height="32" alt="Jira" />
+</p>
+
+### Monitoring & Observability
+<p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Grafana.webp" height="32" alt="Grafana" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Sentry.png" height="32" alt="Sentry" />
+  <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/AppTracer.png" height="32" alt="AppTracer" />
+</p>
+
+### Design & Multimedia
+<p align="left">
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/Figma.webp" height="32" alt="Figma" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/photoshop.webp" height="32" alt="Photoshop" />
   <img src="https://raw.githubusercontent.com/HouseMiv/PNG/main/asset/premiere-pro.webp" height="32" alt="Premiere Pro" />
