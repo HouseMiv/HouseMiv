@@ -9,10 +9,11 @@
 
 ## 🚀 About Me
 - 👨‍💻 Developer & Designer (Python, Go, Node.js, TypeScript)
-- ☁️ Into Backend, OpenStack, Ceph/RBD, Linux, Ansible, Docker, Kubernetes and Cloud Technologies
+- ☁️ Into Backend, OpenStack, Ceph/RBD, Linux, Ansible, Docker, Kubernetes, and Cloud Technologies
 - 🤝 Open to collaboration on open-source and community-driven projects
 - 🎮 Into gaming, energy drinks, and creating practical solutions
 - 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
+
 ---
 
 ## 🔧 Skills
@@ -95,18 +96,20 @@
 ---
 
 ## 💼 Portfolio Projects
-- 👨‍💻 [About me](https://housemiv.vercel.app/) - My a landing page website with information about the author.
-- 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) - My personal site portfolio with info about me and my projects.
-- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) - A test assignment for an internship in VK Cloud as a Backend developer in IaaS Storage.
+- 👨‍💻 [About me](https://housemiv.vercel.app/) - A landing page with information about me.
+- 💼 [Portfolio](https://sivatskiy-michael.vercel.app/) - My personal portfolio website with information about me, my skills, and projects.
+- ☁️ [VK Cloud](https://github.com/HouseMiv/test-vk) - Backend test assignment for a VK Cloud IaaS Storage internship.
 - 🎮 [Velox DM](https://github.com/q-Merlin-p/Velox) - Development of a game project on alt:V Multiplayer in GTA 5.
 - 🏢 **MajesticHUB** - Hub platform for the Majestic RP community: tools, docs, and management: [portfolio](https://sivatskiy-michael.vercel.app/)
-- 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) - Gaming family website in GTA 5 RP. With information, applications and social networks.
-- 🛡️ Сайт для сервиса Domovoy VPN с личным кабинетом на Next.js и FastAPI, подписки и оплата."
-- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the forum: [demo](https://housemiv.github.io/MajeticHub-Forum/).
-- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) - Created using HTML, JS and CSS to help administrators Majestic RP with punishments on the logs: [demo](https://housemiv.github.io/MajeticHub-Logs/).
+- 🐲 [Incident Family](https://github.com/HouseMiv/Incident-Family) - A GTA 5 RP gaming community website with information, applications, and social links.
+- 🛡️ **Domovoy VPN** - VPN service website with a personal dashboard built with Next.js and FastAPI, including subscriptions and payments.
+- 🗂️ [Forum Stacker](https://github.com/HouseMiv/MajeticHub-Forum) - A lightweight HTML, CSS, and JavaScript tool for Majestic RP administrators to streamline forum moderation workflows: [demo](https://housemiv.github.io/MajeticHub-Forum/).
+- 🗃️ [Logs Stacker](https://github.com/HouseMiv/MajeticHub-Logs) - A lightweight HTML, CSS, and JavaScript tool for Majestic RP administrators to streamline log-based moderation workflows: [demo](https://housemiv.github.io/MajeticHub-Logs/).
 - ⚙️ [SearchMivBot](https://github.com/HouseMiv/SearchMivBot) - Telethon script that archives the last 5 messages from a Telegram channel to JSON.
-- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) - Flask web application for analyzing websites: loading time, DNS, SSL, ping and SEO.
-<br></br>
+- 🕵️ [Sonic Boom](https://github.com/HouseMiv/SonicBoom) - Flask web application for analyzing websites: loading time, DNS, SSL, ping, and SEO.
+
+<br>
+
 - 🎨 **Design works** - My creative design projects and visual works: [portfolio](https://sivatskiy-michael.vercel.app/)
 ---
 
