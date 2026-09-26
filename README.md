@@ -9,11 +9,10 @@
 
 ## 🚀 About Me
 - 👨‍💻 Developer & Designer (Python, Go, Node.js, TypeScript)
-- ☁️ Interested in DevOps, Cloud Technologies, and Scalable Backend Systems
+- ☁️ Into Backend, OpenStack, Ceph/RBD, Linux, Ansible, Docker, Kubernetes and Cloud Technologies
 - 🤝 Open to collaboration on open-source and community-driven projects
 - 🎮 Into gaming, energy drinks, and creating practical solutions
 - 💸 [Feed the cat](https://www.donationalerts.com/r/housemiv) 🐱 (or me)
-
 ---
 
 ## 🔧 Skills
